@@ -1,0 +1,116 @@
+{
+  "active": [
+    {
+      "id": "regard",
+      "title": "REGARD — Robust evaluation of generative AI",
+      "dates": "2025–2029",
+      "role": "Principal investigator",
+      "partners": "France–Canada programme · Academic partners and Orange Labs",
+      "description": "REGARD studies evaluation of generative AI in real-world environments. It connects statistical questions about evaluation and uncertainty with realistic interaction settings. Within my research programme, it provides a setting for developing evaluation methods that account for limited evidence and imperfect feedback.",
+      "url": "https://www.mcgill.ca/research/channels/news/two-mcgill-professors-awarded-funding-ai-research-through-canada-france-collaboration-368979",
+      "link_label": "Project details"
+    },
+    {
+      "id": "dataia",
+      "title": "Learning and communication in attention-based models",
+      "dates": "2026–2030",
+      "role": "Joint chair with Claire Boyer",
+      "partners": "AI Cluster DATAIA · Université Paris-Saclay",
+      "description": "This programme studies mathematical principles of learning and communication in attention-based models. It connects questions about task-relevant information and representations with the structure of modern learning systems. The aim is to develop mathematical characterisations that inform methods and experimentally testable predictions.",
+      "url": "",
+      "link_label": "Project details"
+    },
+    {
+      "id": "molrgen",
+      "title": "MolRGen — Molecular generation with reasoning models",
+      "dates": "2025–2026",
+      "role": "Principal investigator · In-kind GPU support",
+      "partners": "Mistral AI research collaboration",
+      "description": "This work develops a training and evaluation setting for de novo molecular generation with reasoning models. It connects modern language-model methods with molecular discovery, treating evaluation as an essential part of assessing scientific usefulness. Mistral AI supports the project through computing resources.",
+      "url": "",
+      "link_label": "Project details"
+    },
+    {
+      "id": "medical",
+      "title": "Foundation models for 3D medical imaging",
+      "dates": "2026–2029",
+      "role": "Principal investigator · CIFRE collaboration",
+      "partners": "GE HealthCare · Université Paris-Saclay",
+      "description": "This collaboration studies foundation models for 3D medical imaging and segmentation. Medical imaging provides a concrete setting for examining representations, generalisation and reliable predictions. The research programme connects model development with evaluation on domain-specific imaging tasks.",
+      "url": "",
+      "link_label": "Project details"
+    },
+    {
+      "id": "tabular",
+      "title": "Foundation models for tabular data",
+      "dates": "2026–2029",
+      "role": "Principal investigator · CIFRE collaboration",
+      "partners": "Ekimetrics · Université Paris-Saclay",
+      "description": "This project studies foundation models for tabular data. It provides an application setting for investigating representations, transfer and evaluation across heterogeneous datasets. The objective is to connect reusable learning methods with the requirements of practical data analysis.",
+      "url": "",
+      "link_label": "Project details"
+    },
+    {
+      "id": "safran",
+      "title": "AI methods for aircraft flight assistance",
+      "dates": "2025–2029",
+      "role": "Principal investigator · Mitacs collaboration",
+      "partners": "Safran · ÉTS",
+      "description": "This collaboration investigates AI methods for aircraft flight assistance. It connects learning and decision support in an engineering setting where partial information and reliability have concrete consequences. Research objectives include methods and evaluation conditions appropriate to assistance and control tasks.",
+      "url": "",
+      "link_label": "Project details"
+    },
+    {
+      "id": "airliquide",
+      "title": "Generative AI and information retrieval",
+      "dates": "2024–2027",
+      "role": "Principal investigator · CIFRE collaboration",
+      "partners": "Air Liquide · Université Paris-Saclay · CNRS",
+      "description": "This collaboration studies generative AI for industrial applications, including information retrieval. Work on pragmatic retrieval connects communication models with the problem of finding useful information. The project provides an operational context for research on representations, retrieval and language-based systems.",
+      "url": "https://dl.acm.org/doi/10.1145/3726302.3730239",
+      "link_label": "Related paper: Rational Retrieval Acts"
+    },
+    {
+      "id": "ivador2",
+      "title": "Cognitive communication for collaborative agents",
+      "dates": "2025–2027",
+      "role": "Co-principal investigator",
+      "partners": "IVADO R2 · McGill · ÉTS · Université Laval",
+      "description": "The programme studies cognitive communication for multi-agent reinforcement learning. It connects distributed information and communication with cooperative decisions, supporting research on when agents should communicate and how the value of that communication should be assessed.",
+      "url": "",
+      "link_label": "Project details"
+    }
+  ],
+  "completed": [
+    {
+      "id": "aida",
+      "title": "Safety AI within AIDA",
+      "dates": "2020–2023",
+      "role": "Co-principal investigator",
+      "partners": "Université Paris-Saclay · IBM France · BPI France",
+      "description": "Research on safety and reliability within a broader programme on AI and digital automation.",
+      "url": "",
+      "link_label": "Project details"
+    },
+    {
+      "id": "leakage",
+      "title": "Leakage of sensitive training data",
+      "dates": "2019–2022",
+      "role": "Co-principal investigator",
+      "partners": "DATAIA",
+      "description": "Research on information leakage from learned models, linking privacy attacks with information-theoretic analysis and experimental evaluation.",
+      "url": "",
+      "link_label": "Project details"
+    },
+    {
+      "id": "itbeyond",
+      "title": "Distributed representations and deep learning",
+      "dates": "2018–2020",
+      "role": "Principal investigator",
+      "partners": "H2020 Marie Skłodowska-Curie programme",
+      "description": "Information-theoretic principles for distributed representations and deep learning, connecting mathematical foundations with learning methods.",
+      "url": "",
+      "link_label": "Project details"
+    }
+  ]
+}

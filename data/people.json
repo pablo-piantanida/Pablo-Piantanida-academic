@@ -1,0 +1,302 @@
+{
+  "current": [
+    {
+      "name": "Guillermo Martin",
+      "topic": "Belief Shaping and Strategic Communication in Multi-Agent AI Systems",
+      "institution": "Ph.D. (co-tutelle) student at Ecole de Technologie Supérieure (ÉTS) and Université Paris-Saclay, affiliated with LMF, ILLS, and Mila - Quebec AI Institute",
+      "dates": "",
+      "coadvisors": "Prof. Christian Desrosiers (ILLS, ÉTS) and Prof. Benedikt Bollig (LMF, Université Paris-Saclay)."
+    },
+    {
+      "name": "Thomas Hennequin",
+      "topic": "AI-based Control Method for Aircraft Flight Assistance",
+      "institution": "Ph.D. student at Ecole de Technologie Supérieure (ÉTS), collaboration with Safran Canada",
+      "dates": "Start listed for autumn 2026",
+      "coadvisors": "Philippe Feyel (Safran)."
+    },
+    {
+      "name": "Cléa Chataigner",
+      "topic": "Human-In-The-Loop Auditing for Generative AI Systems",
+      "institution": "Ph.D (co-tutelle) student at McGill University and Université Paris-Saclay, affiliated with Mila - Quebec AI Institute and ILLS",
+      "dates": "",
+      "coadvisors": "Prof. Golnoosh Farnadi (Mila, McGill University | Google)."
+    },
+    {
+      "name": "Antoine Andurao",
+      "topic": "Foundation Models for 3D Medical Imaging",
+      "institution": "Ph.D. student at Université Paris-Saclay, CIFRE with GE Healthcare, affiliated with MICS and ILLS",
+      "dates": "",
+      "coadvisors": "Prof. Maria Vakalopoulou (MICS, CentraleSupélec)."
+    },
+    {
+      "name": "Matteo Sammut",
+      "topic": "Toward a Theoretical Framework for Auditing Generative AI Models",
+      "institution": "Ph.D. (co-tutelle) student at Ecole de Technologie Supérieure (ÉTS) and Paris Dauphine University, affiliated with LAMSADE, ILLS, and Mila - Quebec AI Institute",
+      "dates": "",
+      "coadvisors": "Prof. Yan Chevaleyre (LAMSADE, Paris-Dauphine University) and Prof. Rafael Pinot (LPSM, Sorbonne Université)."
+    },
+    {
+      "name": "Chiara Roverato",
+      "topic": "Diffusion Models for Tabular Data",
+      "institution": "Ph.D. student at McGill University, affiliated with Mila - Quebec AI Institute and ILLS",
+      "dates": "",
+      "coadvisors": "Prof. Mark Coates (ILLS, Mila, McGill University)."
+    },
+    {
+      "name": "Andrew McDonald",
+      "topic": "Building Foundation Models for Tabular Data",
+      "institution": "Ph.D. student at Université Paris-Saclay, CIFRE with Ekimetrics, affiliated with ILLS",
+      "dates": "",
+      "coadvisors": "Dr. Spyros Angelopoulos (ILLS, CNRS)."
+    },
+    {
+      "name": "Lautaro Estienne",
+      "topic": "Smart Conversations: Transforming Human-Machine Interaction",
+      "institution": "Ph.D. student at Université Paris-Saclay, affiliated with LISN and ILLS",
+      "dates": "",
+      "coadvisors": "Prof. Nona Naderi (LISN, Université Paris-Saclay)"
+    },
+    {
+      "name": "Zahra Dehghani Tafti",
+      "topic": "Machine Unlearning",
+      "institution": "Ph.D. student at Ecole de Technologie Supérieure (ÉTS), affiliated with ILLS",
+      "dates": "",
+      "coadvisors": "Prof. Mohammad Hadi Shateri (LIVIA, ÉTS Montréal)."
+    },
+    {
+      "name": "Arthur Satouf",
+      "topic": "Information Retrieval",
+      "institution": "Ph.D. student at Paris-Saclay University, CIFRE with Air Liquide",
+      "dates": "",
+      "coadvisors": "Dr. Habiboulaye Amadou-Boubacar (Air Liquide) and Benjamin Piwowarski (CNRS, ISIR)."
+    },
+    {
+      "name": "Matthieu Dubois",
+      "topic": "Detecting AI Generated Text",
+      "institution": "Ph.D .student at Sorbonne Université, affiliated with ISIR",
+      "dates": "",
+      "coadvisors": "Dr. François Yvon (ISIR, CNRS)."
+    },
+    {
+      "name": "Philippe Formont",
+      "topic": "Computational Tools for Molecule Discovery",
+      "institution": "Ph.D (co-tutelle) student at Université Paris-Saclay and Ecole de Technologie Supérieure (ETS)",
+      "dates": "",
+      "coadvisors": "Prof. Ismail Ben Ayed (ETS, LIVIA - ILLS)."
+    }
+  ],
+  "alumni": [
+    {
+      "name": "Eric Aubinais",
+      "topic": "Conformal Learning with Applications to Machine Learning",
+      "institution": "Ph.D from Paris-Saclay University",
+      "dates": "Graduated in 2025",
+      "coadvisors": "Prof. Elisabeth Gassiat (LMO, Université Paris-Saclay)"
+    },
+    {
+      "name": "Maxime Darrin",
+      "topic": "Metrics and Methods for Generative AI Model Evaluation",
+      "institution": "Ph.D (co-tutelle) from Paris-Saclay University and McGill University",
+      "dates": "Graduated in 2025",
+      "coadvisors": "Prof. Jackie Cheung (McGill University, Canada)."
+    },
+    {
+      "name": "Eduardo Dadalto Camara Gomes",
+      "topic": "Securing the use of AI",
+      "institution": "Ph.D from Paris-Saclay University",
+      "dates": "Graduated in 2024",
+      "coadvisors": "Dr. Florence Alberge (L2S, Université Paris-Saclay)."
+    },
+    {
+      "name": "Ganesh Del Grosso",
+      "topic": "Leakage of Sensitive Training Data from Deep Neural Networks",
+      "institution": "Ph.D from École Polytechnique",
+      "dates": "Graduated in 2023",
+      "coadvisors": "Dr. Catuscia Palamidessi (LIX, Inria)."
+    },
+    {
+      "name": "Sebastian Espinosa",
+      "topic": "Learning Invariances in Deep Learning",
+      "institution": "Ph.D from Universidad de Chile",
+      "dates": "Graduated in 2023",
+      "coadvisors": "Prof. Jorge Silva (University of Chile, Chile)."
+    },
+    {
+      "name": "Marine Picot",
+      "topic": "Artificial Intelligence in Smart Grids",
+      "institution": "Ph.D (co-tutelle) from Université Paris-Saclay and McGill University",
+      "dates": "Graduated in 2023 from Paris-Saclay University and McGill University",
+      "coadvisors": "Prof. F. Labeau (McGill University, Canada) and collaborating with Prof. Francisco Messina (Universidad de Buenos Aires, Argentina)."
+    },
+    {
+      "name": "Malik Boudiaf",
+      "topic": "Information measures for low-shot learning",
+      "institution": "Ph.D from Ecole de Technologie Supérieure (ETS)",
+      "dates": "Graduated in 2023",
+      "coadvisors": "Prof. Ismail Ben Ayed (ÉTS, Canada)."
+    },
+    {
+      "name": "Federica Granese",
+      "topic": "Information-Theoretic Methods for Safety AI",
+      "institution": "Ph.D (co-tutelle) from Institut Polytechnique de Paris and Università degli Studi di Roma",
+      "dates": "Graduated in 2023",
+      "coadvisors": "Dr. Catuscia Palamidessi (LIX, Inria, France) and Daniele Gorla (Università degli Studi di Roma, Italy)."
+    },
+    {
+      "name": "Mohammad Hadi Shateri",
+      "topic": "Deep Learning and Privacy in Smart Grids",
+      "institution": "Ph.D from McGill University",
+      "dates": "Graduated in 2022",
+      "coadvisors": "Prof. F. Labeau (McGill University, Canada) and Prof. Francisco Messina (Universidad de Buenos Aires, Argentina)."
+    },
+    {
+      "name": "Matias Vera",
+      "topic": "Learning via Information-Bottleneck Methods",
+      "institution": "Ph.D from Universidad de Buenos Aires (Argentina)",
+      "dates": "Graduated in 2020",
+      "coadvisors": "Prof. Leonardo Rey Vega (UBA - CONICET, Argentina)."
+    },
+    {
+      "name": "Clément Feutry",
+      "topic": "Two Sides of Relevant Information: Anonymized Representation through Deep Learning and Predictor Monitoring",
+      "institution": "Ph.D from Université Paris-Saclay",
+      "dates": "Graduated in 2019",
+      "coadvisors": "Dr. P. Duhamel (CNRS)."
+    },
+    {
+      "name": "Kai Wan",
+      "topic": "Fundamental Limits of Index Coding",
+      "institution": "Ph.D from Université Paris-Saclay",
+      "dates": "Graduated in 2018",
+      "coadvisors": "Prof. D. Tuninetti (University of Chicago, US)."
+    },
+    {
+      "name": "Georg Pichler",
+      "topic": "Information-Theoretic Clustering",
+      "institution": "Ph.D from TU Wien (Austria)",
+      "dates": "Graduated in 2017",
+      "coadvisors": "Prof. G. Matz (TUWien, Austria)."
+    },
+    {
+      "name": "Gil Katz",
+      "topic": "Distributed Statistical Inference with Communication Constraints",
+      "institution": "Ph.D from Université Paris-Saclay (France)",
+      "dates": "Graduated in 2017",
+      "coadvisors": "Prof. M. Debbah (CentraleSupélec)."
+    },
+    {
+      "name": "Maggie Mhanna",
+      "topic": "Distributed Hypothesis Testing with Privacy Constraints",
+      "institution": "Ph.D from Université Paris-Saclay",
+      "dates": "Graduated in 2017",
+      "coadvisors": "Dr. P. Duhamel (CNRS)."
+    },
+    {
+      "name": "Chao He",
+      "topic": "Cooperation and Feedback in Wireless Networks",
+      "institution": "Ph.D from Université Paris-Saclay",
+      "dates": "Graduated in 2016",
+      "coadvisors": "Prof. S.Yang (CentraleSupélec)."
+    },
+    {
+      "name": "Meryem Benammar",
+      "topic": "Broadcast Channels: Side Information and Security Constraints",
+      "institution": "Ph.D from Supélec",
+      "dates": "Graduated in 2016",
+      "coadvisors": "Principal advisor."
+    },
+    {
+      "name": "German Bassi",
+      "topic": "Interference Relay Networks: Feedback and Security Constraints",
+      "institution": "Ph.D from Supélec",
+      "dates": "Graduated in 2015",
+      "coadvisors": "Prof. S. Yang (CentraleSupélec)."
+    },
+    {
+      "name": "Andres Altieri",
+      "topic": "Fundamental Limits of Cooperative Large Wireless Networks",
+      "institution": "Ph.D (co-tutelle) from Supélec and Universidad de Buenos Aires (Argentina)",
+      "dates": "Graduated in 2014",
+      "coadvisors": "Prof. C. Galarza (UBA - CONICET, Argentina) and Prof. Leonardo Rey Vega (UBA - CONICET, Argentina)."
+    },
+    {
+      "name": "Joffrey Villard",
+      "topic": "Task-Oriented Source Coding: Secure Transmission, Detection",
+      "institution": "Ph.D from Supélec",
+      "dates": "Graduated in 2012",
+      "coadvisors": "Pascal Bianchi (Télécom ParisTech)."
+    },
+    {
+      "name": "Arash Behboodi",
+      "topic": "Cooperative Networks with Channel Uncertainty",
+      "institution": "Ph.D from Supélec",
+      "dates": "Graduated in 2012 from Supélec",
+      "coadvisors": ""
+    },
+    {
+      "name": "Patricia Layec",
+      "topic": "Information-Theoretic Bounds and Practical Coding Schemes for MIMO Communications Under Imperfect CSIR and Partial and/or Imperfect CSIT",
+      "institution": "Ph.D from Supélec, CIFRE Orange",
+      "dates": "Graduated in 2009",
+      "coadvisors": "Prof. Antoine O. Berthet (CentraleSupélec)."
+    }
+  ],
+  "postdocs": [
+    {
+      "name": "Andres Altieri",
+      "topic": "Securing the use of AI",
+      "institution": "L2S, Paris-Saclay University",
+      "dates": "June 2023 – May 2024",
+      "coadvisors": ""
+    },
+    {
+      "name": "Pierre Colombo",
+      "topic": "Securing the use of AI",
+      "institution": "L2S, Paris-Saclay University",
+      "dates": "since January 2022 – September 2022",
+      "coadvisors": ""
+    },
+    {
+      "name": "Marco Romanelli",
+      "topic": "Securing the use of AI",
+      "institution": "L2S, Paris-Saclay University",
+      "dates": "since Nov. 2020 – September 2022",
+      "coadvisors": ""
+    },
+    {
+      "name": "Hamid Jalalzai",
+      "topic": "Bounding Information Leakage in Machine Learning",
+      "institution": "In collaboration with Dr. Catuscia Palamidessi (LIX, Inria, France",
+      "dates": "February 2021 – September 2022",
+      "coadvisors": ""
+    },
+    {
+      "name": "Matias Vera",
+      "topic": "Generalization, Information and Learning",
+      "institution": "In collaboration with Prof. Leonardo Rey Vega (UBA - CONICET, Argentina",
+      "dates": "April 2019 – 2021",
+      "coadvisors": ""
+    },
+    {
+      "name": "Francisco Messina",
+      "topic": "Artificial Intelligence in Smart Grids: Robust Learning",
+      "institution": "In collaboration with Prof. F. Labeau (McGill University, Canada",
+      "dates": "June 2018 - October 2020",
+      "coadvisors": ""
+    },
+    {
+      "name": "Georg Pichler",
+      "topic": "Estimation of Information Measures based on Neural Networks",
+      "institution": "L2S, Paris-Saclay University",
+      "dates": "July 2018 - Sep. 2019",
+      "coadvisors": ""
+    },
+    {
+      "name": "Zuxing Li",
+      "topic": "Distributed Compression and Learning on Power Lines",
+      "institution": "In collaboration with RTE France and Prof. M. Kieffer (Paris-Saclay University",
+      "dates": "March 2018 - February 2020",
+      "coadvisors": ""
+    }
+  ]
+}

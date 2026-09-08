@@ -1,0 +1,55 @@
+{
+  "selected_keys": 270,
+  "displayed_records": 267,
+  "grouped_duplicates": [
+    {
+      "key": "Eduardo2021",
+      "same_as": "EduardoICLR2022"
+    },
+    {
+      "key": "GeorgA",
+      "same_as": "Georg2020-Segmentation"
+    },
+    {
+      "key": "AsilomarKai2017",
+      "same_as": "AsilomarKai2018"
+    }
+  ],
+  "years": [
+    "2026",
+    "2025",
+    "2024",
+    "2023",
+    "2022",
+    "2021",
+    "2020",
+    "2019",
+    "2018",
+    "2017",
+    "2016",
+    "2015",
+    "2014",
+    "2013",
+    "2012",
+    "2011",
+    "2010",
+    "2009",
+    "2008",
+    "2007",
+    "2006",
+    "2005",
+    "2003",
+    "2001"
+  ],
+  "recent_status_review": [
+    "satouf2026storm",
+    "DBLP:conf/eacl/SatoufZBPP26",
+    "DBLP:journals/corr/abs-2502-06567",
+    "DBLP:journals/corr/abs-2511-01069",
+    "fosse2026deficiency",
+    "mouravieff:hal-05708399",
+    "DBLP:journals/ijcv/MoralesAlvarezCVPD26",
+    "DBLP:journals/tmlr/EstienneVFKPF26",
+    "Yasi2026"
+  ]
+}
